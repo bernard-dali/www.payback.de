@@ -1,0 +1,17 @@
+{
+  "name": "recaptcha-payback-login",
+  "version": "1.0.0",
+  "description": "This demo show how to bypass captcha recaptcha v2 on www.payback.de/login",
+  "keywords": ["payback","captcha","recaptcha","bypass","automation"],
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "2captcha-ts": "^2.3.3",
+    "puppeteer": "^22.6.2"
+  }
+}
