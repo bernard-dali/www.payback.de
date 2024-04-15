@@ -1,5 +1,5 @@
 ![alt text](/media/show_captcha.png)
-# Bypass captcha recaptcha v2 on www.payback.de/login
+# Bypass captcha recaptcha v2 on www.payback.de/login using JavaScript
 
 ## Description
 
