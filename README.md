@@ -37,4 +37,4 @@ Screenshot pass captcha:
 ### Usefull articles
 
 - [iFrame in Puppeteer: Guide For Developers](https://www.webshare.io/academy-article/puppeteer-iframe)
-- [Solving recaptcha v2](https://2captcha.com/2captcha-api#solving_recaptchav2_new) 2captcha api docs
+- [Solving recaptcha v2](https://2captcha.com/2captcha-api#solving_recaptchav2_new?from=22771395) 2captcha api docs
